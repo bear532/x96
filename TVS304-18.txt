@@ -1,0 +1,22 @@
+香蕉,zlive://173.208.209.114:7719/0bca98ee467f096a1425aa34bedb24&max
+松1台,zlive://173.208.209.114:7719/9bae9e9cf38740232eecb38955a1834f
+松2台,zlive://173.208.209.114:7719/5066d14f19396dd0f9281f078226975f&max
+松3台,zlive://173.208.209.114:7719/28843227d999f53949936ebaff556993
+香蕉,zlive://173.208.209.114:7719/0bca98ee467f096a1425aa34bedb24&max
+精艳,zlive://173.208.209.114:7719/346927a489115b68c95dd346c218d100
+快乐,zlive://173.208.209.114:7719/110911c8fa7491d9fd22e1a0a6fef7b0
+彩虹电影,zlive://173.208.209.114:7719/1227bfd3814100acf32afa0ed363e826
+潘多拉,zlive://173.208.209.114:7719/6cb8d236c1d69e783f243ff17f75353a&max
+彩虹e台,mitv://generationnexxxt.com:19806/1cc806a1cd934ef59217cbe816c38018
+彩虹電影台,mitv://generationnexxxt.com:19806/ede503079f114bc6bf365846ba424990
+LOOK TV,mitv://generationnexxxt.com:19806/20398d4884a6475bb6a1520411b50b54
+驚豔電影台,mitv://generationnexxxt.com:19806/ca147220763d40dd8cb24116cc3fcb7e
+潘朵啦玩美台,mitv://generationnexxxt.com:19806/bc43c724e539490691c8f7e1d3db27e6
+松視1台,mitv://generationnexxxt.com:19806/63b6d349ebc247618a07b53deb0c00b0
+松視2台,mitv://generationnexxxt.com:19806/69d7816ce9234d5a82bd93992a85cad8
+松視3台,mitv://generationnexxxt.com:19806/90c8cadbc11f459380c04480de7630c3
+香蕉台,mitv://generationnexxxt.com:19806/f53ee5ccaf464f418f32ac1feffac1dd
+PLAYBOY,mitv://generationnexxxt.com:19806/58088a697825496fa8e7fa048f7ee6ff
+JStar極限台,mitv://generationnexxxt.com:19806/761b412082534116b4a63d46130ea3d4
+K頻道,mitv://generationnexxxt.com:19806/a7b60259e9e3451bab5fd0905b4862a6
+HAPPY,mitv://generationnexxxt.com:19806/276ad3db2b6746559d60eded6e93bec5
