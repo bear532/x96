@@ -12,7 +12,7 @@
 //"spider": "./cat0109.jar",
 //"spider":"https://github.com/Bear9501/news/blob/main/cat0828.jar?raw=true",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3R2dmJveC5tbC9jYXQtbGl2ZW15LnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2JlYXI1MzIveDk2L21haW4vNTQzLnR4dA=="]}]}],
 
 
 "drives": [
